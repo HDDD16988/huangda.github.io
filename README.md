@@ -2,7 +2,22 @@
 
 Personal academic homepage for Da Huang, a Ph.D. student at Shanghai Innovation Institute and Shanghai Jiao Tong University. Built with static HTML, CSS, and JavaScript; no build step is required.
 
-## Preview
+## Public Website
+
+Once GitHub Pages is enabled, visitors can read the homepage at:
+
+**https://hddd16988.github.io/huangda.github.io/**
+
+One-time setup for the repository owner:
+
+1. Open [Settings → Pages](https://github.com/HDDD16988/huangda.github.io/settings/pages).
+2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
+3. Select **main** and **/ (root)**, then click **Save**.
+4. Wait for the Pages deployment to finish; the published URL will appear in Settings → Pages.
+
+Later changes pushed to `main` will be published automatically. Visitors do not need Git, Python, or any command-line tools.
+
+## Local Preview (for editing only)
 
 Open `index.html` directly, or serve this directory:
 
