@@ -34,7 +34,7 @@ Then visit http://127.0.0.1:8080/.
 - `profile.css`: responsive layout, white publication cards, and institution logos.
 - `profile.js`: publication filters, author expansion, pipeline viewer, clipboard actions, and back-to-top.
 - `documents/`: linked CV and PDF manuscripts for CoM-HOI, Schrödinger's Navigator, and TP-MDDN. TrajBooster links directly to arXiv.
-- `images/profile/`: portrait extracted from the supplied CV.
+- `images/profile/`: the author's supplied high-resolution portrait.
 - `images/institutions/`: supplied SII and SJTU logos.
 - `images/paper/`: pipeline figures for the four displayed papers.
 - `images/experience/`: the supplied night skyline photograph, optimized as JPEG and responsive WebP images.
